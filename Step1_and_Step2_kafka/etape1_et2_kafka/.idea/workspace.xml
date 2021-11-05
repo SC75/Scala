@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4ae8db3-73d3-4aa0-b2bd-2c109292f7c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aAXUourPokuKUGb6cEZxgvV2gt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.Consumer">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Consumer" />
+      <module name="scala-drones-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Producer" />
+      <module name="scala-drones-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.Producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/kafka-streams-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4ae8db3-73d3-4aa0-b2bd-2c109292f7c6" name="Default Changelist" comment="" />
+      <created>1586179390238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586179390238</updated>
+      <workItem from="1586179391636" duration="1294000" />
+      <workItem from="1586185004422" duration="773000" />
+      <workItem from="1586185797732" duration="265000" />
+      <workItem from="1586186084312" duration="26000" />
+      <workItem from="1586186470837" duration="53000" />
+      <workItem from="1586186575754" duration="620000" />
+      <workItem from="1586188144389" duration="5925000" />
+      <workItem from="1586196514142" duration="518000" />
+      <workItem from="1586197500680" duration="541000" />
+      <workItem from="1586198052479" duration="331000" />
+      <workItem from="1586198933166" duration="619000" />
+      <workItem from="1586201729697" duration="4763000" />
+      <workItem from="1586206996398" duration="242000" />
+      <workItem from="1586207253129" duration="1364000" />
+      <workItem from="1586257461462" duration="3352000" />
+      <workItem from="1586269829930" duration="1813000" />
+      <workItem from="1586273222079" duration="1202000" />
+      <workItem from="1586345301984" duration="6691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="298" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586351036311">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="744" y="298" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586351036311" />
+    <state x="747" y="467" width="434" height="178" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1586179606823">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="747" y="467" width="434" height="178" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586179606823" />
+    <state x="810" y="442" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586179446629">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="810" y="442" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586179446629" />
+    <state x="649" y="301" width="611" height="520" key="FileChooserDialogImpl" timestamp="1586270507377">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="649" y="301" width="611" height="520" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1586270507377" />
+    <state x="779" y="448" width="326" height="217" key="Github.ShareDialog" timestamp="1586208523305">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="779" y="448" width="326" height="217" key="Github.ShareDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586208523305" />
+    <state width="1608" height="267" key="GridCell.Tab.0.bottom" timestamp="1586186523598">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1608" height="267" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1586186523598" />
+    <state width="1608" height="267" key="GridCell.Tab.0.center" timestamp="1586186523597">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1608" height="267" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1586186523597" />
+    <state width="1608" height="267" key="GridCell.Tab.0.left" timestamp="1586186523596">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1608" height="267" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1586186523596" />
+    <state width="1608" height="267" key="GridCell.Tab.0.right" timestamp="1586186523598">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1608" height="267" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1586186523598" />
+    <state x="436" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1586208617977">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="436" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1586208617977" />
+    <state x="625" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1586345303289">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="625" y="378" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586345303289" />
+    <state x="320" y="267" width="1372" height="554" key="new project wizard" timestamp="1586259528474">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="320" y="267" width="1372" height="554" key="new project wizard/70.27.1850.1053@70.27.1850.1053" timestamp="1586259528474" />
+  </component>
+</project>
