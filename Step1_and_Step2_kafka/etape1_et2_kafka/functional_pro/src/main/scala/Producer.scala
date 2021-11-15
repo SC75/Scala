@@ -5,8 +5,6 @@ import java.util.Timer
 
 
 
-//members in group : Francis Tran, Sebastien Chen, Jérémy Trullier, Zhan Chen
-
 object Producer extends App {
 
   val props = new Properties()
