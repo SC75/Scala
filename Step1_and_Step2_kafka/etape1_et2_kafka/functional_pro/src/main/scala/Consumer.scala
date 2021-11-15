@@ -12,7 +12,6 @@ import javax.mail.{Message, Session}
 
 import java.io._
 
-//members in group : Francis Tran, Sebastien Chen, Jérémy Trullier, Zhan Chen
 object Consumer extends App {
 
   val  props = new Properties()
